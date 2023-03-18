@@ -5,3 +5,11 @@ Super hacky scripts to download images from Slack and see if they are vulnerable
 All credit goes to David Buchanan for the proof of concept code used here: https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html
 
 See the scripts for usage instructions.
+
+## Demo
+
+Left: Cropped screenshot I shared.
+
+Right: Recovered screenshot.
+
+![demo](demo.png)
